@@ -2,6 +2,11 @@
 
 Este repositório contém a implementação computacional do trabalho **“Análise da Transição Crítica da Propagação do Sarampo em um Modelo SIR Espacial Usando Box-Counting”**, cujo objetivo é investigar a dinâmica espacial da propagação do sarampo por meio de um modelo epidemiológico SIR implementado como um autômato celular bidimensional, com análise da transição crítica utilizando dimensão fractal.
 
+## 📄 Artigo
+
+O artigo completo descrevendo o modelo, a metodologia e os resultados pode ser encontrado em:
+**[Análise da Transição Crítica da Propagação do Sarampo em um Modelo SIR Espacial Usando Box-Counting](https://github.com/marcelomnzs/AC_EC-UFPRE/blob/main/paper/Paper.pdf)**
+
 ---
 
 ## 🎓 Contexto Acadêmico
